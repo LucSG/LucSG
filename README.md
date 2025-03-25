@@ -41,7 +41,7 @@ Paralelamente, continuo me aprimorando como desenvolvedor Java, com foco em Spri
 
 ## Próximos Passos
 
-Atualmente, estou focado em aprimorar minhas habilidades em Spring Boot e explorar novas tecnologias como Microsserviços e Cloud Computing. Acredito que o futuro da tecnologia está na nuvem e estou animado para fazer parte dessa jornada.
+Minha principal meta no momento é fazer a transição da área de suporte para a área de desenvolvimento back-end. Para isso, estou focando em aprimorar minhas habilidades em Java e Spring Boot, além de estudar arquiteturas de microsserviços e Cloud Computing. Estou buscando oportunidades para aplicar meus conhecimentos em projetos reais e demonstrar meu potencial como desenvolvedor. Acredito que minha experiência em suporte, combinada com minhas habilidades técnicas, me torna um profissional versátil e capaz de agregar valor em qualquer equipe de desenvolvimento.
 
 ## Estatísticas do GitHub
 
