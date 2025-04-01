@@ -17,16 +17,9 @@ Paralelamente, continuo me aprimorando como desenvolvedor Java, com foco em Spri
 *   <img src="assets/mysql.png" width="24" height="24">MySQL
 *   Git
 
-
 ## Conecte-se Comigo
 
 *   [LinkedIn](https://www.linkedin.com/in/lucas-santos-guimar%C3%A3es-3a086b2a4/)
 *   E-mail: lucasguima@yahoo.com.br
-
-## Próximos Passos
-
-Minha principal meta no momento é fazer a transição da área de suporte para a área de desenvolvimento back-end. Para isso, estou focando em aprimorar minhas habilidades em Java e Spring Boot, além de estudar arquiteturas de microsserviços e Cloud Computing. Estou buscando oportunidades para aplicar meus conhecimentos em projetos reais e demonstrar meu potencial como desenvolvedor. Acredito que minha experiência em suporte, combinada com minhas habilidades técnicas, me torna um profissional versátil e capaz de agregar valor em qualquer equipe de desenvolvimento.
-
----
 
 Agradeço a sua visita! Sinta-se à vontade para explorar meus projetos e entrar em contato. 😊
