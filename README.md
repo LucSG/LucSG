@@ -18,22 +18,6 @@ Paralelamente, continuo me aprimorando como desenvolvedor Java, com foco em Spri
 *   Git
 
 
-## Experiência Profissional
-*   **Desenvolvedor Front-End | NexusElite**
-    *   Implementação do Front end nas páginas de gerenciamento de Torneios.
-    *   Desenvolvimento de componentes reutilizáveis, integração com APIs e responsividade.
-    *   03-2024 - Atualmente
-
-*   **Técnico de Suporte N2 | Superintendência Regional do Trabalho e Emprego no Acre (SRTE-AC)**
-    *   Atuação na resolução de problemas técnicos e suporte aos sistemas da SRTE-AC.
-    *   Garantia do bom funcionamento dos sistemas e atendimento aos usuários.
-    *   04-2023 - Atualmente
-
-*   **Desenvolvedor Full-Stack | E-Boi**
-    *   Criação do site principal para anuncios focados na zona rural.
-    *   Garantia do bom funcionamento do sistema e apresentação de novas funções.
-    *   08-2019 - 03-2020
-
 ## Conecte-se Comigo
 
 *   [LinkedIn](https://www.linkedin.com/in/lucas-santos-guimar%C3%A3es-3a086b2a4/)
@@ -42,10 +26,6 @@ Paralelamente, continuo me aprimorando como desenvolvedor Java, com foco em Spri
 ## Próximos Passos
 
 Minha principal meta no momento é fazer a transição da área de suporte para a área de desenvolvimento back-end. Para isso, estou focando em aprimorar minhas habilidades em Java e Spring Boot, além de estudar arquiteturas de microsserviços e Cloud Computing. Estou buscando oportunidades para aplicar meus conhecimentos em projetos reais e demonstrar meu potencial como desenvolvedor. Acredito que minha experiência em suporte, combinada com minhas habilidades técnicas, me torna um profissional versátil e capaz de agregar valor em qualquer equipe de desenvolvimento.
-
-## Estatísticas do GitHub
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucSG&layout=compact&theme=radical)](https://github.com/LucSG)
 
 ---
 
