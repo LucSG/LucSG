@@ -19,7 +19,7 @@ Paralelamente, continuo me aprimorando como desenvolvedor Java, com foco em Spri
 
 ## Conecte-se Comigo
 
-*   [LinkedIn](https://www.linkedin.com/in/lucas-santos-guimar%C3%A3es-3a086b2a4/)
+*   [LinkedIn](https://www.linkedin.com/in/lucas-santos-guimaraes/)
 *   E-mail: lucasguima@yahoo.com.br
 
 Agradeço a sua visita! Sinta-se à vontade para explorar meus projetos e entrar em contato. 😊
